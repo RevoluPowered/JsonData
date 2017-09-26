@@ -8,8 +8,6 @@ using System.Text;
 /// <summary>
 /// JsonData is written by Gordon Alexander MacPherson
 /// All rights are reserved 2017
-/// License: Private / Commercial
-/// NOTE: This has been used in commercial products for other companies.
 /// Copyright 2017 (c) Gordon Alexander MacPherson
 /// Provided without warantee, no copying or redistrubution is allowed.
 /// </summary>
